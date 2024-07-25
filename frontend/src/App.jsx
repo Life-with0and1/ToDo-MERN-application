@@ -4,7 +4,7 @@ import TaskManager from './TaskManager'
 function App() {
   return (
     <div>
-      <TaskManager url={"https://todo-mern-api-six.vercel.app/"}/>
+      <TaskManager url={"http://localhost:3000"}/>
     </div>
   )
 }
