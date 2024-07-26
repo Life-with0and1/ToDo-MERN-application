@@ -35,9 +35,9 @@ Welcome to the ToDo MERN Application! This project is a full-stack web applicati
 
 ## 📸 Screenshots
 
-Add Task![ADD task](https://github.com/user-attachments/assets/37d18ebb-a520-4642-a6d1-0df69a272756)
+- Add Task![ADD task](https://github.com/user-attachments/assets/37d18ebb-a520-4642-a6d1-0df69a272756)
 
-Delete Task(![Delete task](https://github.com/user-attachments/assets/b4d180af-dcf4-4520-891c-8e73e73f94ba)
+- Delete Task![Delete task](https://github.com/user-attachments/assets/b4d180af-dcf4-4520-891c-8e73e73f94ba)
 
-Search Task(![A search](https://github.com/user-attachments/assets/3f30a438-d823-4f1a-a6e4-21b0b61d2ed5)
+- Search Task![A search](https://github.com/user-attachments/assets/3f30a438-d823-4f1a-a6e4-21b0b61d2ed5)
 
